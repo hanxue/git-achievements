@@ -17,9 +17,9 @@ There are over 40 achievements, most with different levels to be achieved. After
 
 A log of all of your achievements is kept locally, but you can also publish it to GitHub pages so you can share your achievements (and there is an RSS feed so people can track your achievements).
 
-For example the project maintainer's achievements page is at http://icefox.github.io/git-achievements/.
+For example the project maintainer's achievements page is at http://hanxue.github.io/git-achievements/.
 
-If you are viewing a forked version of git-achievements you want to replace icefox with the GitHub user account you want to see like so:
+If you are viewing a forked version of git-achievements you want to replace hanxue with the GitHub user account you want to see like so:
 
 http://**username**.github.com/git-achievements
 

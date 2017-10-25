@@ -2,6 +2,13 @@
 <title>Lee Hanxue's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice News Reader (Level 1)</title><description>Show logs with difference each commit introduces with git whatchanged</description></item>
+<item><title>Apprentice Historian (Level 3)</title><description>Investigate the commit log using git log.</description></item>
+<item><title>Apprentice Historian (Level 2)</title><description>Investigate the commit log using git log.</description></item>
+<item><title>Apprentice Historian (Level 1)</title><description>Investigate the commit log using git log.</description></item>
+<item><title>Apprentice Banker (Level 2)</title><description>Join two or more development histories together with git merge.</description></item>
+<item><title>Garage Inventor</title><description>Used a custom alias for a Git command</description></item>
+<item><title>Apprentice Banker (Level 1)</title><description>Join two or more development histories together with git merge.</description></item>
 <item><title>Apprentice Socialite (Level 2)</title><description>pushed a branch to a remote repository using git push</description></item>
 <item><title>Apprentice Investigator (Level 1)</title><description>Used git blame to annotate a file with information about how each line changed.</description></item>
 <item><title>Apprentice Socialite (Level 1)</title><description>pushed a branch to a remote repository using git push</description></item>

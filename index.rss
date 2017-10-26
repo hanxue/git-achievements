@@ -2,6 +2,7 @@
 <title>Lee Hanxue's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Seamstress (Level 1)</title><description>amended a commit with git commit --amend.</description></item>
 <item><title>Apprentice Web Designer (Level 2)</title><description>Instantly browse your working repository in gitweb with git instaweb</description></item>
 <item><title>Apprentice Web Designer (Level 1)</title><description>Instantly browse your working repository in gitweb with git instaweb</description></item>
 <item><title>Apprentice Merchant (Level 1)</title><description>Added an external repository with git remote add.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Apprentice Socialite (Level 1)</title><description>pushed a branch to a remote repository using git push</description></item>
 <item><title>Master Carpenter (Level        4)</title><description>Custom git hooks are installed which help catch issues before they are shared.</description></item>
 <item><title>Apprentice Stone Mason (Level 1)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
-<item><title>Apprentice Architect (Level 1)</title><description>Created a new repository with git init.</description></item>
 </channel></rss>

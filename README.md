@@ -46,3 +46,18 @@ You can get your first achievement by running
 ```
 git achievements --help
 ```
+
+### macOS
+
+You need to install GNU Coreutils and make the GNU `readlink` command available as `greadlink`. An easy way to do that is to use Homebrew to install coreutils. 
+
+```
+brew update && brew install coreutils
+```
+
+Run the followng command or add it to your `~/.bash_profile~
+
+```
+export PATH="/usr/local/opt/coreutils/libexec/gnubin:$PATH"
+```
+

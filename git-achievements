@@ -371,8 +371,14 @@ function publish_achievements
 {
     git_achievements="$(which git-achievements)"
     git_achievements_dir="$(dirname "${git_achievements}")"
+    value=""
+    if ! type "greadlink" > /dev/null; then
+        value="$(dirname $(readlink ${git_achievements}))"
+    else
+        value="$(dirname $(greadlink ${git_achievements}))"
+    fi
     if [ -L "${git_achievements}" ]; then
-      case "$(dirname $(readlink ${git_achievements}))" in
+      case ${value} in
         /*)
           git_achievements_dir="$(dirname $(readlink ${git_achievements}))"
           ;;
